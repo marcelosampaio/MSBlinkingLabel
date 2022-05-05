@@ -1,0 +1,6 @@
+framework module MSBlinkingLabel {
+  umbrella header "MSBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

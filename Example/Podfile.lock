@@ -1,0 +1,16 @@
+PODS:
+  - MSBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - MSBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  MSBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSBlinkingLabel: d8d0357e0020196890a60873fcceae394c46afab
+
+PODFILE CHECKSUM: ed79f6e60d4fe14ab3042d17e7b80c8c59027874
+
+COCOAPODS: 1.11.2
